@@ -23,7 +23,6 @@ grep *pattern* filename
 chmod
 10. remote connect to a server:
 ssh username@servename
-
 11. manual of the commands:
 man command (q to quit)
 
