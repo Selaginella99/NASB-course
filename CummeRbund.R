@@ -52,4 +52,4 @@ heatmap.2(as.matrix(temp), scale="row", dendrogram="both", density.info=c("none"
 
 #change to pretty color
 library("RColorBrewer")
-heatmap.2(as.matrix(temp), scale="row", dendrogram="both", density.info=c("none"), margins=c(5,5), trace=c("none"), labRow=F, col)
+heatmap.2(as.matrix(temp), scale="row", dendrogram="both", density.info=c("none"), margins=c(5,5), trace=c("none"), labRow=F, col=2)
