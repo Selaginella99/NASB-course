@@ -25,5 +25,7 @@ chmod
 ssh username@servename
 11. manual of the commands:
 man command (q to quit)
+12. uncompressed the data set:
+gz *.gz
 
 [Linux Cheat Shirt](http://store-xkcd-com.myshopify.com/collections/featured/products/issues-shirt)
