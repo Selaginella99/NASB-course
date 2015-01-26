@@ -51,7 +51,7 @@ RNA-seq aligner: [GSNAP](http://research-pub.gene.com/gmap/), [TopHat2](http://c
 
 ---
 
-Reference: 
+* Reference: 
 
 [STAR: ultrafast universal RNA-seq aligner](http://bioinformatics.oxfordjournals.org/content/early/2012/10/25/bioinformatics.bts635), 
 [Systematic evaluation of spliced alignment programs for RNA-seq data](http://www.nature.com/nmeth/journal/v10/n12/full/nmeth.2722.html)
@@ -80,5 +80,4 @@ Download [STAR](https://github.com/alexdobin/STAR/releases) and its [manual](htt
 
 * Community:
 [RNA-seq blog](http://www.rna-seqblog.com/);
-
 [Biostars](https://www.biostars.org/)
