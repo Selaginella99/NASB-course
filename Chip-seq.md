@@ -1,13 +1,13 @@
 ## Chip-seq
 
-### Sequencing data file formats
+#### Sequencing data file formats
 - fastq sequence and quality
 - bed alignment data
 - wig wiggle, GC, probability score for *visualization*
 
 [Data File Formats](https://genome.ucsc.edu/FAQ/FAQformat.html) on UCSC.
 
-### MACS
+#### MACS
 
 [MACS](http://liulab.dfci.harvard.edu/MACS/README.html) is Model-based Analysis for Chip-Seq
 
@@ -32,7 +32,7 @@ macs14
 --call-subspeaks, invoke Mali Salmon's PeakSplitter soft to special the location
 
 
-### Sicer
+#### Sicer
 
 [Sicer](http://home.gwu.edu/~wpeng/Software.htm) requires the standard	python compiler, as well as the numpy and scipy [package](http://www.mybiosoftware.com/cluster-analysis/5397). 
 [It](http://www.genomatix.de/online_help/help_regionminer/sicer.html) represents a clustering algorithm for ChIPSeq data like MACS.
@@ -44,5 +44,3 @@ ChIPPeakAnno is a R package which is able to associate the peaks to nearby genes
 
 Sicer output file: File-name-islands-summary-FDR.01
 Mapping peaks to genes: refFlat.txt is needed 
-
-
