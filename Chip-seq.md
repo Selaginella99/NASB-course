@@ -5,9 +5,11 @@
 - bed alignment data
 - wig wiggle, GC, probability score for *visualization*
 
-[Data File Formats](https://genome.ucsc.edu/FAQ/FAQformat.html).
+[Data File Formats](https://genome.ucsc.edu/FAQ/FAQformat.html) on UCSC.
 
-### [MACS](http://liulab.dfci.harvard.edu/MACS/README.html) is Model-based Analysis for Chip-Seq
+### MACS
+
+[MACS](http://liulab.dfci.harvard.edu/MACS/README.html) is Model-based Analysis for Chip-Seq
 
 macs14 
 
