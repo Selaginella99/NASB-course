@@ -59,7 +59,7 @@ RNA-seq aligner: [GSNAP](http://research-pub.gene.com/gmap/), [TopHat2](http://c
 Download [STAR](https://github.com/alexdobin/STAR/releases) and its [manual](https://github.com/alexdobin/STAR/blob/master/doc/STARmanual.pdf).
 
 * Genome:
-* 
+
 -http://www.gencodegenes.org/
 
 –http://www.ensembl.org/index.html
@@ -67,7 +67,7 @@ Download [STAR](https://github.com/alexdobin/STAR/releases) and its [manual](htt
 –http://www.ncbi.nlm.nih.gov/genome
 
 * Reviews on RNA-seq:
-* 
+
 –JA Martin, et al, Next-generation transcriptome assembly. Nature Reviews Genetics 12, 671-682 (2011)
 
 –S Pepke et al, Computation for ChIP-seq and RNA-seq studies. Nature Methods 6, S22 - S32 (2009)
