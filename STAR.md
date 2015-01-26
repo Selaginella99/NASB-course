@@ -59,6 +59,7 @@ RNA-seq aligner: [GSNAP](http://research-pub.gene.com/gmap/), [TopHat2](http://c
 Download [STAR](https://github.com/alexdobin/STAR/releases) and its [manual](https://github.com/alexdobin/STAR/blob/master/doc/STARmanual.pdf).
 
 * Genome:
+* 
 -http://www.gencodegenes.org/
 
 –http://www.ensembl.org/index.html
@@ -66,16 +67,19 @@ Download [STAR](https://github.com/alexdobin/STAR/releases) and its [manual](htt
 –http://www.ncbi.nlm.nih.gov/genome
 
 * Reviews on RNA-seq:
+* 
 –JA Martin, et al, Next-generation transcriptome assembly. Nature Reviews Genetics 12, 671-682 (2011)
 
 –S Pepke et al, Computation for ChIP-seq and RNA-seq studies. Nature Methods 6, S22 - S32 (2009)
 
 * Evaluation of RNA-seq aligners:
+
 –PG Engström et al, Systematic evaluation of spliced alignment programs for RNA-seq data. Nature Methods 10, 1185–1191 (2013)
 
 –NA Fonseca, et al, RNA-Seq Gene Profiling - A Systematic Empirical Comparison. PLoS ONE 9(9): e107026. (2014)
 
 * Systematic assessment of RNA-seq technology and data analysis:
+
 –Five studies by the SEQC/MAQC-III Consortium, Nature Biotechnology 32, 888–932 (2014)
 
 * Community:
