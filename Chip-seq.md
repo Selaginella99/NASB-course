@@ -44,3 +44,5 @@ ChIPPeakAnno is a R package which is able to associate the peaks to nearby genes
 
 Sicer output file: File-name-islands-summary-FDR.01
 Mapping peaks to genes: refFlat.txt is needed 
+
+[Flow chart](http://www.nature.com/nrg/journal/v11/n7/full/nrg2795.html) for next-generation data analysis [figure 4](http://www.nature.com/nrg/journal/v11/n7/fig_tab/nrg2795_F4.html)
