@@ -4,7 +4,7 @@
 
 [~,scores,pcvars] = princomp(expression');
 
-## normalize using zscores
+## normalize using z-score normalization
 x = zscores(:,1);
 y = zscores(:,2);
 z = zscores(:,3);
