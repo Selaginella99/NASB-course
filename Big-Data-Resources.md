@@ -3,7 +3,8 @@
 >Resources that can be converted to Gene Networks, Gene Set Libraries, and Bipartite Graphs 
 
 National Cancer Institute’s Cancer Target Discovery and Development ([CTD2](https://ocg.cancer.gov/programs/ctd2/using-ctd2-data)) 
-under [the Broad Institute](https://www.broadinstitute.org/scientific-community/science/programs/csoft/chemical-biology/project-cancer-dependencies-%E2%80%93-ctd2/canc). CTD2 is a cancer phenotypingp roject that seeks to identify novel cancer **drug targets** and novel **biomarkers** for diagnosis of cancer and prediction of drug response.
+under [the Broad Institute](https://www.broadinstitute.org/scientific-community/science/programs/csoft/chemical-biology/project-cancer-dependencies-%E2%80%93-ctd2/canc). CTD2 is a cancer phenotypingp roject that seeks to identify novel cancer **drug targets** and novel **biomarkers** for diagnosis of cancer and prediction of drug response. 
+[Project Achilles](http://www.broadinstitute.org/achilles).
 
 Biological General Repository for Interaction Datasets [(BioGRID)](http://thebiogrid.org/) is a database of **protein-protein** interactions.
 
@@ -31,5 +32,17 @@ The Gene Expression Omnibus ([GEO](http://www.ncbi.nlm.nih.gov/geo/)) is an alte
 
 Mammalian Phenotype Ontology ([MPO](http://www.informatics.jax.org/mgihome/projects/aboutmgi.shtml)) developed by Mouse Genome Informatics (MGI) at the Jackson Labs is a controlled vocabulary of **mouse** phenotype terms that are annotated with the genotypes of the mice that display the phenotype.
 
+Human Endogenous Complexome([HEC](http://www.epicome.org/)) is a high content proteomics dataset hosted by the Nuclear Receptor Signaling Atlas ([NURSA](http://www.nursa.org/nursa/index.jsf)) consisting of 3000 immuno-precipitations followed by mass spectrometry. It can be mined for functional protein-protein by complexes.
+
+Online Mendelian Inheritance in Man ([OMIM](http://www.omim.org/)) is a database of human phenotypes (e.g. **diseases**) with known genetic basis that summarizes the current state of knowledge about a gene or phenotype.
+
+Proteomics Database
+
+- [ProteomicsDB](https://www.proteomicsdb.org/) hosts the results of a recently published study that profiled protein abundance in high-throughput across a range of *cell lines* and *tissues*.
+- [The Human Proteome Map](http://www.humanproteomemap.org/) is a similar source of data on protein abundance measured in many cell lines and tissues.
+
+The [Allen Brain Atlas](http://www.brain-map.org/) has generated many **brain-related** datasets, it can be mined for genes that are differentially whole-genome gene expressed in a *region* of the brain or at a developmental *time point*. 
+
+Genotype Tissue Expression Project ([GTEx](http://www.gtexportal.org/home/)) is a genome mapping project that seeks to discover expression quantitative trait loci (eQTL) in the human genome, and provide a list of **gene-SNP pairs**.
 
 The Phenotype-Genotype Integrator [(PheGenI)](http://www.ncbi.nlm.nih.gov/gap/phegeni) on NCBI.
