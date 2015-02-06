@@ -23,5 +23,13 @@ Gene Reference Into Function ([GeneRIF](http://www.ncbi.nlm.nih.gov/gene/about-g
 
 [Reactome](http://www.reactome.org/) is a database of **biomolecular pathways**, there are other pathway databases like Kyoto Encyclopedia of Genes and Genomes ([KEGG](http://www.genome.jp/kegg/)) and [WikiPathways](http://www.wikipathways.org/index.php/WikiPathways).
 
+[KINOMEscan](http://lincs.hms.harvard.edu/explore/10.1038-nchembio.1337/fallahi-sichani-2013/dose_response_grid.html) is a Library of Integrated Network-based Cellular Signatures ([LINCS](http://lincs.hms.harvard.edu/)) project that is quantifying in high-throughput the inhibitory effect of drugs on **kinases**.
+
+The [L1000 Cmapis](http://www.lincscloud.org/l1000/) a Library of **LINCS** project that is profiling *gene expression* changes following pharmacologic or genetic (knockdown or over-expression) perturbation of *cell lines* in high-throughput.
+
+The Gene Expression Omnibus ([GEO](http://www.ncbi.nlm.nih.gov/geo/)) is an alternative source of many *gene expression* datasets contributed by **researchers** studying a many diverse topics.
+
+Mammalian Phenotype Ontology ([MPO](http://www.informatics.jax.org/mgihome/projects/aboutmgi.shtml)) developed by Mouse Genome Informatics (MGI) at the Jackson Labs is a controlled vocabulary of **mouse** phenotype terms that are annotated with the genotypes of the mice that display the phenotype.
+
 
 The Phenotype-Genotype Integrator [(PheGenI)](http://www.ncbi.nlm.nih.gov/gap/phegeni) on NCBI.
