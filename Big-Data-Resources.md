@@ -33,7 +33,7 @@ Biological General Repository for Interaction Datasets [(BioGRID)](http://thebio
 
 Human Endogenous Complexome([HEC](http://www.epicome.org/)) is a high content proteomics dataset hosted by the Nuclear Receptor Signaling Atlas ([NURSA](http://www.nursa.org/nursa/index.jsf)) consisting of 3000 immuno-precipitations followed by mass spectrometry. It can be mined for functional *protein-protein* by complexes.
 
-The Phenotype-Genotype Integrator [(PheGenI)](http://www.ncbi.nlm.nih.gov/gap/phegeni) on NCBI.
+The Phenotype-Genotype Integrator [(PheGenI)](http://www.ncbi.nlm.nih.gov/gap/phegeni) on NCBI, merges NHGRI genome-wide association study (GWAS) catalog data with several databases housed at the National Center for Biotechnology Information (NCBI), including Gene, dbGaP, OMIM, GTEx and dbSNP.
 
 Proteomics Database
 
