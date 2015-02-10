@@ -8,6 +8,7 @@ Encyclopedia of DNA Elements ([ENCODE](https://www.encodeproject.org/)) is **a g
 
 Gene Ontology [GO](http://geneontology.org/) annotates genes with biological terms (*molecular functions, biological
 processes, and cellular components*) selected from a structured vocabulary.
+Sequence Ontology ([SO](http://www.sequenceontology.org/browser/current_release/term/SO:0001970)) is a collaborative ontology project for the definition of sequence features used in biological sequence annotation, and is also part of the Open Biomedical Ontologies library.
 
 Gene Reference Into Function ([GeneRIF](http://www.ncbi.nlm.nih.gov/gene/about-generif)) is another gene annotation project that is a manually curated collection of short statements, each describing a function of a gene.
 
