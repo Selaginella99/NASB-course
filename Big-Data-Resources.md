@@ -2,6 +2,8 @@
 
 >Resources that can be converted to Gene Networks, Gene Set Libraries, and Bipartite Graphs 
 
+What's that gene (or protein)? [Online resources](http://www.ncbi.nlm.nih.gov/pubmed/24723265) for exploring functions of genes, transcripts, and proteins.
+
 #### Genome:
 
 Encyclopedia of DNA Elements ([ENCODE](https://www.encodeproject.org/)) is **a genome mapping** project that seeks to annotate the human genome with information about genes and elements that regulate gene transcription, such as transcription factor binding sites. ENCODE at [UCSC](http://genome.ucsc.edu/ENCODE/).
@@ -58,3 +60,5 @@ under [the Broad Institute](https://www.broadinstitute.org/scientific-community/
 [DrugBank](http://www.drugbank.ca/) is a manually curated database of information about **drugs** and their targets (*not only protein*).
 
 [KINOMEscan](http://lincs.hms.harvard.edu/explore/10.1038-nchembio.1337/fallahi-sichani-2013/dose_response_grid.html) is a Library of Integrated Network-based Cellular Signatures ([LINCS](http://lincs.hms.harvard.edu/)) project that is quantifying in high-throughput the inhibitory effect of drugs on **kinases**.
+
+
