@@ -25,7 +25,7 @@ macs14
 
 -g, --species genome size
 
---keep-dup
+--keep-dup how many duplicates can be kept in the peak detection (keep it automatically)
 
 -w, --generate wig files (time and memory consuming)
 
