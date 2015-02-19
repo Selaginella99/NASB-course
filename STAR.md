@@ -1,4 +1,4 @@
-## RNA-seq Analysis with 
+## RNA-seq Analysis with STAR
 
 [STAR](http://seqanswers.com/forums/showthread.php?t=27470) uses MMP and execute clustering, stitching, and scoring.
 
