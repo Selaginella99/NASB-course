@@ -20,6 +20,11 @@ The Cancer Genome Atlas ([TCGA](http://cancergenome.nih.gov/abouttcga/overview))
 
 Online Mendelian Inheritance in Man ([OMIM](http://www.omim.org/)) is a database of human phenotypes (e.g. **diseases**) with known genetic basis that summarizes the current state of knowledge about a gene or phenotype.
 
+##### SNPs
+The Single Nucleotide Polymorphism Database ([dbSNP](http://en.wikipedia.org/wiki/DbSNP)) is a free public archive for genetic variation within and across different species developed and hosted by the National Center for Biotechnology Information (NCBI), the version [summary](http://www.ncbi.nlm.nih.gov/SNP/snp_summary.cgi)
+
+[biomaRt](http://www.bioconductor.org/packages/release/bioc/html/biomaRt.html) is a R pakcage for gene-to-transcript–to-protein mappings ([pub](http://www.nature.com/nprot/journal/v4/n8/full/nprot.2009.97.html))
+
 
 #### Gene expression
 
