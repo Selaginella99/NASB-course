@@ -1,1 +1,3 @@
 1. [crowdsourcing tasks](http://www.maayanlab.net/crowdsourcing/) including megatasks (Prediction of Adverse Drug Reactions with gene expression data and Clustering of an unspecified set of gene lists) and microtasks (Building a gene set library from single gene perturbations in GEO)
+
+2. Bioconductor for High Throughput Sequence [Analysis](http://bioconductor.org/help/course-materials/2015/useR/bioc-for-sequence-analysis.html), with [exercise](http://bioconductor.org/help/course-materials/2015/useR/ad-hoc-exercises.html), and online [github book](http://genomicsclass.github.io/book/). Check the `Courses & Conferences` on Bioconductor: http://bioconductor.org/help/course-materials
